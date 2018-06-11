@@ -16,6 +16,8 @@
 
 > Body & Post Class Remove Class 
 
+<?php
+
 function demo_body_class($classes){
 	unset($classes[array_search("first-class", $classes )]);
 	unset($classes[array_search("custom-background", $classes )]);
@@ -29,3 +31,6 @@ function demo_post_class($classes){
 	return $classes;
 }
 add_filter("post_class","demo_post_class");
+
+?>
+
