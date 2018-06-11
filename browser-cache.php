@@ -1,3 +1,4 @@
+<?php
 > Check Site URL
 
 site_url();
