@@ -12,7 +12,13 @@
 
 > Post Pagination :  https://github.com/rejbioli/WordPress-Resources/blob/master/post-pagination.php
 
+> Blog Pagination :  https://github.com/rejbioli/WordPress-Resources/blob/master/bolg-pagination.php
+
 > Password Required Post :  https://github.com/rejbioli/WordPress-Resources/blob/master/password_required_post.php
 
 > Widget :  https://github.com/rejbioli/WordPress-Resources/blob/master/widget.php
+
+> Theme Support :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-support.php
+
+> Theme Assets :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-assets.php
 
