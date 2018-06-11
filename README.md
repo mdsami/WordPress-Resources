@@ -14,6 +14,8 @@
 
 > Blog Pagination :  https://github.com/rejbioli/WordPress-Resources/blob/master/bolg-pagination.php
 
+> Custom Field :  https://github.com/rejbioli/WordPress-Resources/blob/master/custom-field.php
+
 > Password Required Post :  https://github.com/rejbioli/WordPress-Resources/blob/master/password_required_post.php
 
 > Widget :  https://github.com/rejbioli/WordPress-Resources/blob/master/widget.php
@@ -21,4 +23,9 @@
 > Theme Support :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-support.php
 
 > Theme Assets :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-assets.php
+
+> Inline Css :  https://github.com/rejbioli/WordPress-Resources/blob/master/custom-style.php
+
+> Localize Script :  https://github.com/rejbioli/WordPress-Resources/blob/master/localize-script.php
+
 
