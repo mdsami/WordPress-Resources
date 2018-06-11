@@ -8,6 +8,8 @@
 
 > Post Query :  https://github.com/rejbioli/WordPress-Resources/blob/master/post-query.php
 
+> Post Thumbnails :  https://github.com/rejbioli/WordPress-Resources/blob/master/post-thumbnail.php
+
 > Post Pages :  https://github.com/rejbioli/WordPress-Resources/blob/master/post-pages.php
 
 > Post Pagination :  https://github.com/rejbioli/WordPress-Resources/blob/master/post-pagination.php
