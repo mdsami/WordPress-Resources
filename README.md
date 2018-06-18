@@ -22,12 +22,12 @@
 
 > Widget :  https://github.com/rejbioli/WordPress-Resources/blob/master/widget.php
 
-> Theme Support :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-support.php
-
 > Theme Assets :  https://github.com/rejbioli/WordPress-Resources/blob/master/theme-assets.php
 
 > Inline Css :  https://github.com/rejbioli/WordPress-Resources/blob/master/custom-style.php
 
 > Localize Script :  https://github.com/rejbioli/WordPress-Resources/blob/master/localize-script.php
+
+> Add Theme Support  :  https://github.com/rejbioli/WordPress-Resources/blob/master/add_theme_support.php
 
 
