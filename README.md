@@ -30,4 +30,5 @@
 
 > Add Theme Support  :  https://github.com/rejbioli/WordPress-Resources/blob/master/add_theme_support.php
 
+> Image Crop  :  https://github.com/rejbioli/WordPress-Resources/blob/master/image-crop.php
 
